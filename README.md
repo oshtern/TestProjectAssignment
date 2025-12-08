@@ -31,6 +31,7 @@ The project consists of the following files:
 * TasksPage - class for CRUD operations with Task entities
 * "tests" folder with "spAssignment.js" file where actual test cases are stored
 * Video recording of tests execution
+* TASKS_CHECKLIST.md with checklist of test cases that cover happy paths
 
 
 ### Installing
