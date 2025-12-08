@@ -20,15 +20,8 @@ This project demonstrates end-to-end testing of the SimplePractice portal https:
 
 The project is written in javascript using Playwright testing framework. 
 
-TestProjectAssignment/
-├── pages/
-│ ├── LoginPage.js # Page Object Model for authentication
-│ └── TasksPage.js # Page Object Model for Task CRUD operations
-├── tests/
-│ └── spAssignment.spec.js # Test cases
-├── config.js # Configuration and test data
-├── package.json # Dependencies and scripts
-└── README.md # This file
+![alt text](image-1.png)
+
 
 ### Installing
 
