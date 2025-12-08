@@ -18,6 +18,11 @@ This project demonstrates end-to-end testing of the SimplePractice portal https:
 
 ### Structure
 
+Environment:
+* Ubuntu 24.04.3 LTS
+* VS Code Version: 1.106.3
+
+
 The project is written in javascript using Playwright testing framework. 
 
 The project consists of the following files:
@@ -25,6 +30,7 @@ The project consists of the following files:
 * LoginPage - class for authorization operations
 * TasksPage - class for CRUD operations with Task entities
 * "tests" folder with "spAssignment.js" file where actual test cases are stored
+* Video recording of tests execution
 
 
 ### Installing
