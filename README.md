@@ -42,7 +42,7 @@ The project consists of the following files:
 
 ### Executing program
 
-* Update config.js with valid test credentials and data
+* Update config.js with valid test credentials and data if necessary
 
 * Ensure all required environment variables are set
 
